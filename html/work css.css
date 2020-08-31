@@ -1,0 +1,84 @@
+.Logo-Docplanner{
+    width: 268px;
+    height: 33px;
+}
+.lead__logo{
+    height: auto;
+    display: block;
+    border: 0;
+    box-sizing: inherit;
+    margin-left: 425px;
+}
+.make{
+    text-align: center;
+    color: #00b39b;
+    font-size: 2.125rem;
+
+}
+.paragraph{
+    display: flex;
+    padding: 3%;
+    line-height: 1.75;
+    margin: 0-10px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+}
+h2{
+    font-size: 1.25rem;
+    color: #00b39b;
+}
+.brandslogo{
+    float: left;
+    font-size: 0;
+    width: 67%;
+    list-style: none;
+}
+#improve{
+    text-align: center;
+    font-size: 15px;
+    color: #00b39b;
+}
+.team{
+    text-align: center;
+    font-size: 12px;
+}
+.contries{
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 2% 10%;
+}
+.contries div{
+    margin: 2%;
+}
+.contry{
+    display: flex;
+    justify-content: space-between;
+    padding: 2%;
+}
+.contry a{
+    border-radius: 2%;
+    text-decoration: none;
+    color: white;
+    padding: 2%;
+    background-color: #3d83df;
+}
+.contries div:hover{
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+svg{
+    width: 70%;
+    height: 30;
+}
+path{
+    fill: blue
+}
+.links{
+    display: flex;
+    justify-content: flex-end;
+}
